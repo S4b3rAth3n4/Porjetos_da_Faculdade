@@ -1,2 +1,2 @@
-# Porjetos_da_Faculdade
+# Projetos_da_Faculdade
 Trabalho de comprovação de aprendizado
